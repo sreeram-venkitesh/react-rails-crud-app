@@ -1,6 +1,11 @@
 {
   "name": "Event-Manager",
   "private": "true",
+  "engines": {
+    "node": "16.5.0",
+    "npm": "9.x",
+    "yarn": "1.22.x"
+  },
   "dependencies": {
     "@hotwired/stimulus": "^3.0.1",
     "@hotwired/turbo-rails": "^7.1.1",
